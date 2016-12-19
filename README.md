@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/swagger-api/swagger-node.svg?branch=master)](https://travis-ci.org/swagger-api/swagger-node) 
-[![NPM version](https://badge.fury.io/js/swagger.png)](http://badge.fury.io/js/swagger)
-[![Dependency Status](https://david-dm.org/swagger-api/swagger-node/status.svg)](https://david-dm.org/swagger-api/swagger-node)
-[![devDependency Status](https://david-dm.org/swagger-api/swagger-node/dev-status.svg)](https://david-dm.org/swagger-api/swagger-node#info=devDependencies)
+[![Build Status](https://travis-ci.org/phiphamuet/swagger-node.svg?branch=master)](https://travis-ci.org/phiphamuet/swagger-node) 
+[![npm version](https://badge.fury.io/js/swaggerv1.svg)](https://badge.fury.io/js/swaggerv1)
+[![Dependency Status](https://david-dm.org/phiphamuet/swagger-node/status.svg)](https://david-dm.org/phiphamuet/swagger-node)
+[![devDependency Status](https://david-dm.org/phiphamuet/swagger-node/dev-status.svg)](https://david-dm.org/phiphamuet/swagger-node?type=dev)
 
 The `swaggerv1` module is fork of `swagger` module with fix bug and update dependencies.
 The `swagger` module provides tools for designing and building Swagger-compliant APIs entirely in Node.js. It integrates with popular Node.js servers, including Express, Hapi, Restify, and Sails, as well as any Connect-based middleware. With `swagger`, you can specify, build, and test your API from the very beginning, on your laptop. It allows you to change and iterate your design without rewriting the logic of your implementation.
