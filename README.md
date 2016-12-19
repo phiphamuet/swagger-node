@@ -3,7 +3,7 @@
 [![Dependency Status](https://david-dm.org/swagger-api/swagger-node/status.svg)](https://david-dm.org/swagger-api/swagger-node)
 [![devDependency Status](https://david-dm.org/swagger-api/swagger-node/dev-status.svg)](https://david-dm.org/swagger-api/swagger-node#info=devDependencies)
 
-
+The `swaggerv1` module is fork of `swagger` module with fix bug and update dependencies.
 The `swagger` module provides tools for designing and building Swagger-compliant APIs entirely in Node.js. It integrates with popular Node.js servers, including Express, Hapi, Restify, and Sails, as well as any Connect-based middleware. With `swagger`, you can specify, build, and test your API from the very beginning, on your laptop. It allows you to change and iterate your design without rewriting the logic of your implementation.
 
 ![alt text](./docs/images/overview2.png)
